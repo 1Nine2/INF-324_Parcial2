@@ -13,3 +13,5 @@ Conclusion de Estudios: https://cacoo.com/diagrams/7Prn20bo8yj74oeR-60912.png
 2.      El ejemplo anterior ejecútelo (diagrama de procesos) en PHP con sus interfaces respectivas en cada proceso (personalice su presentación).
 
 3.      Dado una imagen, con la utilización base de datos o estructuras, clasifique en dicha imagen al menos 3 segmentos de textura de 10x10.
+
+Video: https://youtu.be/5h71t-PNZTs
