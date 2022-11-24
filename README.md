@@ -2,6 +2,8 @@
 1.      Realice mediante notación procesos y BPMN para la inscripción(nuevos) y extensión del certificado de conclusión de estudios.
 
 Inscripcion https://cacoo.com/diagrams/7Prn20bo8yj74oeR-85372.png
+![Untitled](https://user-images.githubusercontent.com/70820314/203802118-65e990ef-1b9a-425b-a059-13166fdb62a2.png)
+
 
 
 2.      El ejemplo anterior ejecútelo (diagrama de procesos) en PHP con sus interfaces respectivas en cada proceso (personalice su presentación).
